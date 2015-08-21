@@ -48,4 +48,10 @@
   C4 on Capresso
 
 #Tradional Drip or Percolator
-##Christmas Percolator	C3	3 cups		N/A			
+##Christmas Percolator	
+#####Grind Size
+  C3 on Capresso
+#####Coffee Quantity
+  3 cups
+#####Water Quantity
+  N/A			
